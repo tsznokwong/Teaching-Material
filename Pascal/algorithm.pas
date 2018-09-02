@@ -1,4 +1,4 @@
-Program Sorts;
+Program Algorithm;
 var
     arr: array [1..8] of integer = (5, 6, 10, 7, 3, 2, 9, 1);
 const
